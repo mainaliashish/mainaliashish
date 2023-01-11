@@ -1,6 +1,5 @@
 ### Hi there, I am Ashish Mainali 👋
 
-### I love coding and learning new stuffs
 
 <!--
 **mainaliashish/mainaliashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
