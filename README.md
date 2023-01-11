@@ -6,7 +6,7 @@
 ## I'm a Developer
 
 
-- 🌱 I am currently Data Science with python.
+- 🌱 I am currently learning Data Science with python.
 - 🏆 2023 Goals: Improve coding skills.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/mainaliashish/)
 - 😄 Pronouns: He/Him
