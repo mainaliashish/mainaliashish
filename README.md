@@ -1,6 +1,6 @@
 ## Hi there, I'm Ashish Mainali <img width="30px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/yaktocat.png" />
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/maxtocat.gif" />
 
 
 ## I'm a Developer
