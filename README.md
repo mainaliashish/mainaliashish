@@ -17,7 +17,7 @@
 
 ---
 ### Weekly Development 
-[![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainaliashish)](https://github.com/anuraghazra/github-readme-stats)
+[![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mainaliashish)](https://github.com/mainaliashish/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
