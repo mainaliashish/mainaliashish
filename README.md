@@ -10,9 +10,7 @@
 - 🏆 2023 Goals: Improve coding skills.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/mainaliashish/)
 - 😄 Pronouns: He/Him
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mainaliashish" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/mainaliashish?trk=profile-badge">Ashish Mainali</a></div>
-              
+  
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mainaliashish)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainaliashish/)
