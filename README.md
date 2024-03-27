@@ -7,7 +7,7 @@
 
 
 - 🌱 I am currently learning Data Science with python.
-- 🏆 2023 Goals: Improve coding skills.
+- 🏆 2024 Goals: Improve coding skills.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/mainaliashish/)
 - 😄 Pronouns: He/Him
   
