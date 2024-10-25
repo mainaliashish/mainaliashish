@@ -9,7 +9,7 @@
 - 🌱 I am currently learning Data Science with python.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/mainaliashish/)
 - 😄 Pronouns: He/Him
-- Current Stack: PHP, Laravel, Javascript, Vue JS, React Redux, AWS Lambda & REST API
+- Current Stack: PHP, Laravel, Bootstrap, Tailwind, Javascript, Vue JS, React Redux, AWS Lambda, Python & REST API
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mainaliashish)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainaliashish/)
