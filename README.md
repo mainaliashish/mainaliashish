@@ -5,8 +5,6 @@
 
 ## I'm a Developer
 
-
-- 🌱 I am currently learning Data Science with python.
 - 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/mainaliashish/)
 - 😄 Pronouns: He/Him
 - Current Stack: PHP, Laravel, Bootstrap, Tailwind, Javascript, Vue JS, Pinia, React Redux, AWS Lambda, Python & REST API
