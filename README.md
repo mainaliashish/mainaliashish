@@ -12,6 +12,10 @@
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mainaliashish)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainaliashish/)
 
+---
+### Language and Tools
+
+<p align="left"> <a href="https://github.com/mainaliashsish"><img src="https://skillicons.dev/icons?i=vscode,googlecloud,amazonwebservices,md,php,python,django,ruby,rails,laravel,replit,github,mysql,postgres,mongodb,css,bootstrap,tailwind,html,js,ts,vue,react,redux,pinia,bots,nodejs"> </a> </p>
 
 ---
 ### Weekly Development 
